@@ -142,8 +142,8 @@
         padding: 4px 62px;
 }
 select.form-control.interval{
-    background: #217ebd;
-    border-color:#1f78b5;
+    background: #1d9c06;
+    border-color:#1d9c06;
     color: white;
     width: auto; 
 }
@@ -158,12 +158,12 @@ span.form-control.price-format {
     color: #FFF;
 }
 span.form-control.cost-format.final-cost-price {    text-align: right;
-    background: rgb(32, 126, 190);
+    background: #1d9c06;
     color: white;
     font-weight: bold;
     font-size: 20px;
     border: none;
-    padding: 4px 28px;
+    padding: 4px 10px;
 }
 
 @media (max-width: 1024px) {
